@@ -1,0 +1,2176 @@
+[
+{
+  "character": {
+    "name": "Barbarian",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/c/c0/Barbarian_Baby_portrait.png/revision/latest?cb=20240423105338",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/c0/Portrait_BARBARIAN.png/revision/latest?cb=20230527020734",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/1/18/Barbarian_Super_portrait.png/revision/latest?cb=20240423105410"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans & Clash Royale",
+      "world": "Green World",
+      "rarity": "Common",
+      "class": "All-Rounders"
+    },
+    "powers": {
+      "fusion_perk": "Instantly becomes an Elite Barbarian?"
+    },
+    "stats": {
+      "damages": 140,
+      "health": 1400,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Barbarian is a Common character originating from Clash of Clans & Clash Royale, found in the Green World. As an All-Rounder, Barbarian excels in various combat situations.",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/dd/Barbarian_Baby_ability.png/revision/latest?cb=20240423115804",
+          "evolution": "Classic (Character level 2)",
+          "description": "Melee fighter with good damage"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e0/Barbarian_Classic_ability.png/revision/latest?cb=20240423115823",
+          "evolution": "Baby (Character level 1)",
+          "description": "Becomes Elite after bashing lots of baddies"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/07/Barbarian_Super_ability.png/revision/latest?cb=20240423115846",
+          "evolution": "Super (Character level 3)",
+          "description": "Goes Elite instantly when with another Barbarian"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c0/Portrait_BARBARIAN.png/revision/latest?cb=20230527020734"
+        },
+        {
+          "name": "Cyberpunk",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/3/30/Skins_%28Barbarian%29_Cyberpunk.png/revision/latest?cb=20240415103629"
+        },
+        {
+          "name": "Sunburn",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/af/Skin_%28Barbarian%29_Sunburn.png/revision/latest?cb=20240415103810"
+        },
+        {
+          "name": "Demon",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/8b/Skin_%28Barbarian%29_Demon.png/revision/latest?cb=20240415103721"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Barbarian) Common 2"
+        },
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Barbarian) Common 1"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Barbarian) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Barbarian) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote Barbarian"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Barbarian was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Greg",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/3/32/Greg_Baby_portrait.png/revision/latest?cb=20240423105650",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/8/80/Greg_Portrait.png/revision/latest?cb=20230524071910",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/e/ee/Greg_Super_portrait.png/revision/latest?cb=20240423105735"
+    },
+    "basic_info": {
+      "origin_game": "Hay Day",
+      "world": "Green World",
+      "rarity": "Common",
+      "class": "Suppliers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 100,
+      "health": 1300,
+      "fusion_damages": "Chops down Trees in one swing",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Greg is a Common character originating from Hay Day, found in the Green World. As a Supplier, Greg plays a crucial role in gathering resources.",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/2c/Greg_Baby_ability.png/revision/latest?cb=20240423132542",
+          "evolution": "Classic (Character level 2)",
+          "description": "Chops Trees for loot"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/42/Greg_Classic_ability.png/revision/latest?cb=20240423132610",
+          "evolution": "Baby (Character level 1)",
+          "description": "Chops Trees twice as fast"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/85/Greg_Super_ability.png/revision/latest?cb=20240423132626",
+          "evolution": "Super (Character level 3)",
+          "description": "Trees drop more loot"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/80/Greg_Portrait.png/revision/latest?cb=20230524071910"
+        },
+        {
+          "name": "Chef",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/3/31/Skin_%28Greg%29_Chef.png/revision/latest?cb=20240415102317"
+        },
+        {
+          "name": "Hero",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/d7/Skin_%28Greg%29_Hero.png/revision/latest?cb=20240415102009"
+        },
+        {
+          "name": "Nutcracker",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/a3/Skin_%28Greg%29_Nutcracker.png/revision/latest?cb=20240415102056"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Greg) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Greg) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Greg) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Greg) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote Greg"
+        }
+      ],
+      "voice_lines": [
+        "Hello. Nice to see you."
+      ],
+      "trivia": "",
+      "gallery": [],
+      "history": ["06/02/2023 - Greg was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Colt",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/9/96/Colt_Baby_portrait.png/revision/latest?cb=20240423105834",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/e/e5/Portrait_Colt_.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/5/5a/Portrait_COLT_%28Super%29.png/revision/latest?cb=20240427085907"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Green World",
+      "rarity": "Common",
+      "class": "Attackers"
+    },
+    "powers": {
+      "fusion_perk": "Shoots bigger bullet storms more often?"
+    },
+    "stats": {
+      "damages": 200,
+      "health": 750,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Colt is a Common character from Brawl Stars, located in the Green World. As an Attacker, Colt specializes in dealing ranged damage.",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/4b/Colt_Baby_ability.png/revision/latest?cb=20240423133000",
+          "evolution": "Base (Character level 2)",
+          "description": "Ranged fighter with high damage"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/bf/Colt_Base_ability.png/revision/latest?cb=20240423132904",
+          "evolution": "Baby (Character level 1)",
+          "description": "Bust 4 foes to fire Bullet Storm"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Missing_image.png/revision/latest?cb=20230701103652",
+          "evolution": "Missing image (Character level 3)",
+          "description": "Bullet Storm deals much more damage"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e5/Portrait_Colt_.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Halloween",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/1/15/Skin_%28Colt%29_Halloween.png/revision/latest?cb=20240409123936"
+        },
+        {
+          "name": "Sheriff",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c8/Skin_%28Colt%29_Sheriff.png/revision/latest?cb=20240409124042"
+        },
+        {
+          "name": "Urban",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/9/9c/Skin_%28Colt%29_Urban.png/revision/latest?cb=20240409124135"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Colt) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Colt) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Colt) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Colt) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote Colt"
+        }
+      ],
+      "voice_lines": [],
+      "trivia": [
+        "Colt is named after Samuel Colt, the man who first invented the Colt Revolver, which he uses himself. Colt himself also carries this weapon, as his name suggests.",
+        "Colt was the first Brawl Stars character created, designed by a former game designer of Brawl Stars, Paul Chambers."
+      ],
+      "gallery": [],
+      "history": ["06/02/2023 - Colt was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "El Primo",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/e/e0/ElPrimo_Baby_portrait.png/revision/latest?cb=20240423113110",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/0/04/Portrait_EL_PRIMO.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/4/4f/ElPrimo_Super_portrait.png/revision/latest?cb=20240423113133"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Green World",
+      "rarity": "Common",
+      "class": "Defenders"
+    },
+    "powers": {
+      "fusion_perk": "Does bigger jumping slams more often?"
+    },
+    "stats": {
+      "damages": 100,
+      "health": 2800,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "El Primo is a Common character from Brawl Stars, located in the Green World. As a Defender, El Primo boasts high health and excels in close combat.",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/1/13/ElPrimo_Baby_ability.png/revision/latest?cb=20240423133535",
+          "evolution": "Base (Character level 1)",
+          "description": "Defender with tons of health"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/62/ElPrimo_Classic_ability.png/revision/latest?cb=20240423133552",
+          "evolution": "Baby (Character level 1)",
+          "description": "Bust 5 foes to do a Flying Elbow Drop"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Missing_image.png/revision/latest?cb=20230701103652",
+          "evolution": "Missing image (Character level 3)",
+          "description": "Flying Elbow Drop deals more damage"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/04/Portrait_EL_PRIMO.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Panda",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/07/Skin_%28El_primo%29_Panda.png/revision/latest?cb=20240409124313"
+        },
+        {
+          "name": "Vegas",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/49/Skin_%28El_primo%29_Vegas.png/revision/latest?cb=20240409124345"
+        },
+        {
+          "name": "Pina",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/61/Skin_%28El_primo%29_Pina.png/revision/latest?cb=20240409124427"
+        },
+        {
+          "name": "Beast",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/cd/Skin_%28El_primo%29_Beast.png/revision/latest?cb=20240409124516"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby El Primo) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby El Primo) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby El Primo) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby El Primo) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote El primo"
+        }
+      ],
+      "voice_lines": [],
+      "trivia": [],
+      "gallery": [],
+      "history": ["06/02/2023 - El Primo was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Goblin",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/3/31/Goblin_Baby_portrait.png/revision/latest?cb=20240423114112",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/e/e1/Portrait_GOBLIN.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/a/a7/Goblin_Super_portrait.png/revision/latest?cb=20240423114124"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans & Clash Royale",
+      "world": "Green World",
+      "rarity": "Common",
+      "class": "Suppliers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 170,
+      "health": 1200,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Goblin is a Common character from Clash of Clans & Clash Royale, located in the Green World. As a Supplier, Goblin has the ability to generate coins.",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/26/Goblin_Baby_ability.png/revision/latest?cb=20240424122556",
+          "evolution": "Base (Character level 1)",
+          "description": "Gives 3 Coins"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/9/98/Goblin_Classic_ability.png/revision/latest?cb=20240424122611",
+          "evolution": "Baby (Character level 1)",
+          "description": "Increases Coins given to 6"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Missing_image.png/revision/latest?cb=20230701103652",
+          "evolution": "Missing image (Character level 3)",
+          "description": "Fusion Goblin gives a secret stash of 15 Coins"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e1/Portrait_GOBLIN.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Adventure",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/d5/Skin_%28Goblin%29_Adventure.png/revision/latest?cb=20240415102348"
+        },
+        {
+          "name": "Cookie",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/5/59/Skin_%28Goblin%29_Cookie.png/revision/latest?cb=20240415102424"
+        },
+        {
+          "name": "Ninja",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/1/1c/Skin_%28Goblin%29_Ninja.png/revision/latest?cb=20240415102407"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Goblin) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Goblin) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Goblin) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Goblin) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote Goblin"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Goblin was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Chicken",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/d/dd/Portrait_Chicken_%28Baby%29.png/revision/latest?cb=20240427090153",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/e/e1/Portrait_Chicken.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/f/fa/Portrait_Chicken_%28Super%29.png/revision/latest?cb=20240427090127"
+    },
+    "basic_info": {
+      "origin_game": "Hay Day",
+      "world": "Green World",
+      "rarity": "Common",
+      "class": "Speedsters"
+    },
+    "powers": {
+      "fusion_perk": "Gives 2 extra Turbo and even longer Turbo?"
+    },
+    "stats": {
+      "damages": 120,
+      "health": 1000,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "The Chicken is a Common Character obtained in the Green World. Its origin game is Hay Day.",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/40/Chicken_Baby_ability.png/revision/latest?cb=20240424122950",
+          "evolution": "Base (Character level 1)",
+          "description": "Gives 1 Turbo Boot(s)"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/8d/Chicken_Classic_ability.png/revision/latest?cb=20240424123003",
+          "evolution": "Baby (Character level 1)",
+          "description": "Spawns up to 3 Hatchlings over time"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/6f/Chicken_Super_ability.png/revision/latest?cb=20240424123013",
+          "evolution": "Missing image (Character level 3)",
+          "description": "Increases Turbo Boots given to 2"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e1/Portrait_Chicken.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Blackbelt",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/ea/Skin_%28Chicken%29_Blackbelt.png/revision/latest?cb=20240415102723"
+        },
+        {
+          "name": "Formal",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/ac/Skin_%28Chicken%29_Formal.png/revision/latest?cb=20240415102743"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Chicken) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Chicken) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Chicken) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Chicken) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote Chicken"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Chicken was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Medic",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/5/53/Medic_Baby_portrait.png/revision/latest?cb=20240423113355",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/6/69/Portrait_MEDIC.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/f/fa/Medic_Super_portrait.png/revision/latest?cb=20240423113404"
+    },
+    "basic_info": {
+      "origin_game": "Boom Beach",
+      "world": "Green World",
+      "rarity": "Rare",
+      "class": "Healers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 125,
+      "health": 900,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/ba/Medic_Classic_ability.png/revision/latest?cb=20240424105951",
+          "evolution": "Classic Character level 1",
+          "description": "Heals the Squad slowly over time"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/6c/Medic_Baby_ability.png/revision/latest?cb=20240424105907",
+          "evolution": "Baby Character level 2",
+          "description": "Throws strong Heal Packs when idle"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/72/Medic_Super_ability.png/revision/latest?cb=20240424110003",
+          "evolution": "Super Character level 3",
+          "description": "Passive heal gets stronger and faster"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/69/Portrait_MEDIC.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Explorer",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/aa/Skin_%28Medic%29_Explorer.png/revision/latest?cb=20240415100123"
+        },
+        {
+          "name": "Underground Gang",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/66/Skin_%28Medic%29_Underground_Gang.png/revision/latest?cb=20240415100333"
+        },
+        {
+          "name": "Wizard",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/42/Skin_%28Medic%29_Wizard.png/revision/latest?cb=20240415100223"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Medic) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Medic) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Medic) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Medic) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote Medic"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Medic was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Dynamike",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/2/29/Dynamike_Baby_portrait.png/revision/latest?cb=20240423113622",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/c7/Portrait_DYNAMIKE.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/3/33/Dynamike_Super_portrait.png/revision/latest?cb=20240423113552"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Green World",
+      "rarity": "Rare",
+      "class": "Attackers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 90,
+      "health": 800,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/41/Dynamike_Baby_ability.png/revision/latest?cb=20240424123758",
+          "evolution": "Classic Character level 1",
+          "description": "Tosses big explosives"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/3/39/Dynamike_Classic_ability.png/revision/latest?cb=20240424123810",
+          "evolution": "Baby Character level 2",
+          "description": "Throws a second stick of dynamite"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/6a/Dynamike_Super_ability.png/revision/latest?cb=20240424123819",
+          "evolution": "Super Character level 3",
+          "description": "Dynamite gets a larger blast"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c7/Portrait_DYNAMIKE.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Fireworks",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/5/53/Skin_%28Dynamike%29_Fireworks.png/revision/latest?cb=20240409124634"
+        },
+        {
+          "name": "Fungus",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/b5/Skin_%28Dynamike%29_Fungus.png/revision/latest?cb=20240409124717"
+        },
+        {
+          "name": "Goblin",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/23/Skin_%28Dynamike%29_Goblin.png/revision/latest?cb=20240409124806"
+        },
+        {
+          "name": "Hipster",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/0f/Skin_%28Dynamike%29_Hipster.png/revision/latest?cb=20240409124847"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Dynamike) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Dynamike) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Dynamike) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Dynamike) Epic 1"
+        },
+        {
+          "name": "Default",
+          "picture": "Emote Dynamike"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Dynamike was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Hog Rider",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/e/e4/HogRider_Baby_portrait.png/revision/latest?cb=20240423113924",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/cf/Portrait_HOG-RIDER.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/8/87/HogRider_Super_portrait.png/revision/latest?cb=20240423113941"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans & Clash Royale",
+      "world": "Green World",
+      "rarity": "Rare",
+      "class": "Speedster"
+    },
+    "powers": {
+      "fusion_perk": "Turbo recovers even faster in tall grass?"
+    },
+    "stats": {
+      "damages": 150,
+      "health": 1500,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/b7/HogRider_Baby_ability.png/revision/latest?cb=20240424124107",
+          "evolution": "Classic Character level 1",
+          "description": "Grass gives a burst of Turbo"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/2c/HogRider_Classic_ability.png/revision/latest?cb=20240424124119",
+          "evolution": "Baby Character level 2",
+          "description": "Turbo lasts longer"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/77/HogRider_Super_ability.png/revision/latest?cb=20240424124134",
+          "evolution": "Super Character level 3",
+          "description": "Turbo recharges faster"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default Skin",
+          "picture": "Phttps://static.wikia.nocookie.net/squad-busters/images/c/cf/Portrait_HOG-RIDER.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Baywatch",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/d8/Skin_%28Hog_Rider%29_Baywatch.png/revision/latest?cb=20240415100517"
+        },
+        {
+          "name": "Ice",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/9/94/Skin_%28Hog_Rider%29_Ice.png/revision/latest?cb=20240415101154"
+        },
+        {
+          "name": "Primitive",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c9/Skin_%28Hog_Rider%29_Primitive.png/revision/latest?cb=20240415101120"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Hog Rider) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Hog Rider) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Hog Rider) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Hog Rider) Epic 1"
+        }
+      ],
+      "voice_lines": [],
+      "trivia": "The hog that he rides is most likely a 'Phacochoerus africanus' (common warthog). Common Warthogs are smaller than boars but more agile which might explain why the Hog Rider can move particularly fast. Warthogs also have tusks, which is like the Hog Rider's hog in Clash of Clans. The Hog Rider bears more than a passing resemblance to Mr. T and Zangief from Street Fighter. The Hog Rider is featured as a character skin for Carl in Brawl Stars.",
+      "gallery": [],
+      "history": ["06/02/2023 - Hog Rider was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Witch",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/0/0f/Portrait_Witch_%28Baby%29.png/revision/latest?cb=20240428071528",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/7/7b/Portrait_WITCH.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/e/ea/Witch_Super_portrait.png/revision/latest?cb=20240423112212"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans & Clash Royale",
+      "world": "Green World",
+      "rarity": "Epic",
+      "class": "Attacker"
+    },
+    "powers": {
+      "fusion_perk": "Summons more skeleton allies even faster?"
+    },
+    "stats": {
+      "damages": 230,
+      "health": 1000,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/d2/Witch_Classic_ability.png/revision/latest?cb=20240425200812",
+          "evolution": "Classic Character level 1",
+          "description": "Summons Skeletons repeatedly"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Missing_image.png/revision/latest?cb=20230701103652",
+          "evolution": "Classic Character level 2",
+          "description": "Summons more Skeletons"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Missing_image.png/revision/latest?cb=20230701103652",
+          "evolution": "Super Character level 3",
+          "description": "Gives a Skeleton Barrel Spell"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/7b/Portrait_WITCH.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Forest",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/f/f6/Skin_%28Witch%29_Forest.png/revision/latest?cb=20240415095527"
+        },
+        {
+          "name": "Kitsune",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/4b/Skin_%28Witch%29_Kitsune.png/revision/latest?cb=20240415095800"
+        },
+        {
+          "name": "Orian",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/a0/Skin_%28Witch%29_Orian.png/revision/latest?cb=20240415095945"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Witch) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Witch) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Witch) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Witch) Epic 1"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Witch was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Archer Queen",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/6/68/ArcherQueen_Baby_portrait.png/revision/latest?cb=20240423112428",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/6/62/Portrait_ARCHER_QUEEN.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/2/2c/ArcherQueen_Super_portrait.png/revision/latest?cb=20240423112450"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans & Clash Royale",
+      "world": "Green World",
+      "rarity": "Epic",
+      "class": "Attacker"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 140,
+      "health": 1200,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/68/ArcherQueen_Baby_ability.png/revision/latest?cb=20240424124656",
+          "evolution": "Classic Character level 1",
+          "description": "Your ranged units attack faster"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/87/ArcherQueen_Classic_ability.png/revision/latest?cb=20240424124713",
+          "evolution": "Classic Character level 2",
+          "description": "Occasionally fires exploding arrows"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/f/ff/ArcherQueen_Super_ability.png/revision/latest?cb=20240424124756",
+          "evolution": "Super Character level 3",
+          "description": "Recovers health steadily when not attacking"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Archer Queen) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Archer Queen) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Archer Queen) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Archer Queen) Epic 1"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": [{ "1": "06/02/2023 - Archer Queen was added to the game by the First Beta (which was closed)", 
+      "2": "23/04/2024 - Archer Queen is unlocked (for free) when connecting to the Supercell ID"}]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Barbarian King",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/5/5c/Portrait_Barbarian_King_%28Baby%29.png/revision/latest?cb=20240423155323",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/d/d1/Barbarian_King.png/revision/latest?cb=20230527113726",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/c/ce/Portrait_Barbarian_King_%28Super%29.png/revision/latest?cb=20240423155249"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans",
+      "world": "Green World",
+      "rarity": "Epic",
+      "class": "Defender"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 145,
+      "health": 3200,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/45/BarbarianKing_Baby_ability.png/revision/latest?cb=20240424125053",
+          "evolution": "Classic Character level 1",
+          "description": "Your melee units attack faster"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/a2/BarbarianKing_Classic_ability.png/revision/latest?cb=20240424125111",
+          "evolution": "Classic Character level 2",
+          "description": "Occasionally pummels enemies with his iron fist"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/67/BarbarianKing_Super_ability.png/revision/latest?cb=20240424125134",
+          "evolution": "Super Character level 3",
+          "description": "Recovers health steadily when not attacking"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/d1/Barbarian_King.png/revision/latest?cb=20230527113726"
+        },
+        {
+          "name": "Ice",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/0f/Skins_%28Barbarian_King%29_Ice.png/revision/latest?cb=20240415103500"
+        },
+        {
+          "name": "Origami",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/ae/Skins_%28Barbarian_King%29_Origami.png/revision/latest?cb=20240415103532"
+        },
+        {
+          "name": "Skeleton",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/05/Skins_%28Barbarian_King%29_Skeleton.png/revision/latest?cb=20240415103600"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Common 1",
+          "picture": "Emote (Baby Barbarian King) Common 1"
+        },
+        {
+          "name": "Common 2",
+          "picture": "Emote (Baby Barbarian King) Common 2"
+        },
+        {
+          "name": "Rare 1",
+          "picture": "Emote (Baby Barbarian King) Rare 1"
+        },
+        {
+          "name": "Epic 1",
+          "picture": "Emote (Baby Barbarian King) Epic 1"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Barbarian King was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Bo",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/0/09/Bo_Baby_portrait.png/revision/latest?cb=20240423114204",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/24/Portrait_BO.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/7/75/Bo_Super_portrait.png/revision/latest?cb=20240423114245"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Desert World",
+      "rarity": "Common",
+      "class": "Attacker"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 125,
+      "health": 700,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/1/17/Bo_Baby_ability.png/revision/latest?cb=20240425200618",
+          "evolution": "Classic Character level 1",
+          "description": "Deals 110% more damage to Monsters"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c0/Bo_Classic_ability.png/revision/latest?cb=20240425200628",
+          "evolution": "Classic Character level 2",
+          "description": "Deals even more damage to Monsters"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Missing_image.png/revision/latest?cb=20230701103652",
+          "evolution": "Super Character level 3",
+          "description": "Occasionally drops a Mine when stopping"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/24/Portrait_BO.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Kyudo",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/b4/Skin_%28Bo%29_Kyudo.png/revision/latest?cb=20240409125027"
+        },
+        {
+          "name": "Egypt",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/7c/Skin_%28Bo%29_Egypt.png/revision/latest?cb=20240409125119"
+        },
+        {
+          "name": "Hunter",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/5/54/Skin_%28Bo%29_Hunter.png/revision/latest?cb=20240409125157"
+        },
+        {
+          "name": "Cityhunter",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/04/Skin_%28Bo%29_Cityhunter.png/revision/latest?cb=20240409125245"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Default",
+          "picture": "Emote Bo"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Bo was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Shelly",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/3/38/Shelly_Baby_portrait.png/revision/latest?cb=20240423113731",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/21/Portrait_shelly.png/revision/latest?cb=20230527113728",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/d/d8/Shelly_Super_portrait.png/revision/latest?cb=20240423113822"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Desert World",
+      "rarity": "Common",
+      "class": "All-Rounders"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 200,
+      "health": 1300,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/74/Shelly_Baby_ability.png/revision/latest?cb=20240424125732",
+          "evolution": "Classic Character level 1",
+          "description": "Bust 5 foes to fire Super Shell"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/a6/Shelly_Classic_ability.png/revision/latest?cb=20240424125748",
+          "evolution": "Classic Character level 2",
+          "description": "Heals a large amount of health after Super Shell"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/1/18/Shelly_Super_ability.png/revision/latest?cb=20240424125811",
+          "evolution": "Super Character level 3",
+          "description": "Shoots a second barrel with her normal attack"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/21/Portrait_shelly.png/revision/latest?cb=20230527113728"
+        },
+        {
+          "name": "Cowgirl",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e6/Skin_%28Shelly%29_Cowgirl.png/revision/latest?cb=20240409153304"
+        },
+        {
+          "name": "Detective",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/3/34/Skin_%28Shelly%29_Detective.png/revision/latest?cb=20240409153336"
+        },
+        {
+          "name": "Magical",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/02/Skin_%28Shelly%29_Magical.png/revision/latest?cb=20240409153409"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Default",
+          "picture": "Emote Shelly"
+        }
+      ],
+      "voice_lines": [
+        "Let's go!",
+        "Let's go get 'em.",
+        "Bling Bling!",
+        "Ai meu cuuuuuuuu"
+      ],
+      "gallery": [],
+      "history": ["06/02/2023 - Shelly was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Nita",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/6/6f/Portrait_Nita_%28Baby%29.png/revision/latest?cb=20240428070919",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/6/6e/Portrait_NITA.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/b/bc/Nita_Super_portrait.png/revision/latest?cb=20240423112913"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Desert World",
+      "rarity": "Rare",
+      "class": "Defenders"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 85,
+      "health": 1200,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/3/31/Nita_Baby_ability.png/revision/latest?cb=20240424130318",
+          "evolution": "Classic Character level 1",
+          "description": "Summons a tough Bear to defend the Squad"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/ee/Nita_Classic_ability.png/revision/latest?cb=20240424130334",
+          "evolution": "Classic Character level 2",
+          "description": "After a while, resummons her Bear, if busted"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/78/Nita_Super_ability.png/revision/latest?cb=20240424130441",
+          "evolution": "Super Character level 3",
+          "description": "Bear gets enraged after the Squad busts a foe"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/6e/Portrait_NITA.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Dog",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/2b/Skin_%28Nita%29_Dog.png/revision/latest?cb=20240409125342"
+        },
+        {
+          "name": "Racoon",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/dc/Skin_%28Nita%29_Racoon.png/revision/latest?cb=20240409125422"
+        },
+        {
+          "name": "Toy",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/5/5a/Skin_%28Nita%29_Toy.png/revision/latest?cb=20240409125519"
+        }
+      ],
+      "emotes": [
+        {
+          "name": "Default",
+          "picture": "Nita"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Nita was added to the game by the First Beta (which was closed)"],
+      "trivia": ["Her raccoon skin's pose is a reference to Mario's pose in Super Mario 3's cover."]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Bea",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/8/83/Portrait_Bea_%28Baby%29.png/revision/latest?cb=20240428071440",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/f/f9/Portrait_BEA.png/revision/latest?cb=20230528210518",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/a/a1/Bea_Super_portrait.png/revision/latest?cb=20240423112849"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Desert World",
+      "rarity": "Rare",
+      "class": "Attackers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 200,
+      "health": 900,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/8f/Bea_Baby_ability.png/revision/latest?cb=20240425192539",
+          "evolution": "Classic Character level 1",
+          "description": "Picks up Hives to get a circle of Bees"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/bf/Bea_Classic_ability.png/revision/latest?cb=20240425192558",
+          "evolution": "Classic Character level 2",
+          "description": "Hives give 1 extra Bee"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/b1/Bea_Super_ability.png/revision/latest?cb=20240425192624",
+          "evolution": "Super Character level 3",
+          "description": "Bees last for much longer"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/f/f9/Portrait_BEA.png/revision/latest?cb=20230528210518"
+        },
+        {
+          "name": "Beetle",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/41/Skin_%28Bea%29_Beetle.png/revision/latest?cb=20240409125627"
+        },
+        {
+          "name": "Evil",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/64/Skin_%28Bea%29_Evil.png/revision/latest?cb=20240409125703"
+        },
+        {
+          "name": "Stagbeetle",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c2/Skin_%28Bea%29_Stagbeetle.png/revision/latest?cb=20240409125801"
+        }
+      ],
+      "emotes": [],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Bea was added to the game by the First Beta (which was closed)"],
+      "trivia": []
+    }
+  }
+},
+{
+  "character": {
+    "name": "Battle Healer",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/d/d3/BattleHealer_Baby_portrait.png/revision/latest?cb=20240423112601",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/a/a3/Portrait_BATTLE_HEALER.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/f/fb/BattleHealer_Super_portrait.png/revision/latest?cb=20240423112656"
+    },
+    "basic_info": {
+      "origin_game": "Clash Royale and Clash of Clans",
+      "world": "Desert World",
+      "rarity": "Epic",
+      "class": "Healers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 120,
+      "health": 1800,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/ba/BattleHealer_Baby_ability.png/revision/latest?cb=20240425194121",
+          "evolution": "Classic Character level 1",
+          "description": "Boosts Squad health by 400"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/da/BattleHealer_Classic_ability.png/revision/latest?cb=20240425194139",
+          "evolution": "Classic Character level 2",
+          "description": "Heals the Squad after opening a chest"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/8c/BattleHealer_Super_ability.png/revision/latest?cb=20240425194152",
+          "evolution": "Super Character level 3",
+          "description": "Increases Squad Health boost to 600"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/a3/Portrait_BATTLE_HEALER.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Hero Armor",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Skins_%28Battle_Healer%29_Hero_Armor.png/revision/latest?cb=20240415103419"
+        },
+        {
+          "name": "Demon",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e4/Skins_%28Battle_Healer%29_Demon.png/revision/latest?cb=20240415103319"
+        },
+        {
+          "name": "Pekka",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/74/Skins_%28Battle_Healer%29_Pekka.png/revision/latest?cb=20240415103340"
+        }
+      ],
+      "emotes": [],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Battle Healer was added to the game by the First Beta (which was closed)"],
+      "trivia": []
+    }
+  }
+},
+{
+  "character": {
+    "name": "Max",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/1/18/Portrait_Max_%28Baby%29.png/revision/latest?cb=20240428070427",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/c9/Portrait_MAX.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/e/ea/Max_Super_portrait.png/revision/latest?cb=20240423112309"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Desert World",
+      "rarity": "Epic",
+      "class": "Speedsters"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 200,
+      "health": 1100,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/8a/Max_Baby_ability.png/revision/latest?cb=20240425193625",
+          "evolution": "Classic Character level 1",
+          "description": "Activates a Squad Speed Boost"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/f/fe/Max_Classic_ability.png/revision/latest?cb=20240425193645",
+          "evolution": "Classic Character level 2",
+          "description": "Busting foes extends Speed Boost"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/5/54/Max_Super_ability.png/revision/latest?cb=20240425193708",
+          "evolution": "Super Character level 3",
+          "description": "Speed Boost charges faster"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c9/Portrait_MAX.png/revision/latest?cb=20230527113727"
+        },
+        {
+          "name": "Cyclist",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/f/f6/Skin_%28Max%29_Cyclist.png/revision/latest?cb=20240409125855"
+        },
+        {
+          "name": "Future",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/63/Skin_%28Max%29_Future.png/revision/latest?cb=20240409125920"
+        },
+        {
+          "name": "Purple",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/f/f1/Skin_%28Max%29_Purple.png/revision/latest?cb=20240409125944"
+        }
+      ],
+      "emotes": [],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["06/02/2023 - Max was added to the game by the First Beta (which was closed)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Trader",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/7/71/Trader_Baby_portrait.png/revision/latest?cb=20240423111952",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/8/8b/Portrait_TRADER.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/5/5d/Trader_Super_portrait.png/revision/latest?cb=20240423112027"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans & Clash Royale",
+      "world": "Royal World",
+      "rarity": "Common",
+      "class": "Suppliers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 100,
+      "health": 1600,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/47/Trader_Baby_ability.png/revision/latest?cb=20240425195303",
+          "evolution": "Classic Character level 1",
+          "description": "Gives 1 Gem(s) for every 15 Coins collected"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/9/90/Trader_Classic_ability.png/revision/latest?cb=20240425195314",
+          "evolution": "Classic Character level 2",
+          "description": "Heals the Squad slightly when giving Gems"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/29/Trader_Super_ability.png/revision/latest?cb=20240425195325",
+          "evolution": "Super Character level 3",
+          "description": "Increases Gems given to 2"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        {
+          "name": "Trader",
+          "picture": "Emote Trader"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["22/05/2023 - Trader was added to the game by the Second Beta (which was open)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Mavis",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/d/d2/Mavis_Baby_portrait.png/revision/latest?cb=20240423111556",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/20/Portrait_Mavis.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/f/f3/Mavis_Super_portrait.png/revision/latest?cb=20240423111638"
+    },
+    "basic_info": {
+      "origin_game": "Hay Day Pop",
+      "world": "Royal World",
+      "rarity": "Common",
+      "class": "Suppliers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 125,
+      "health": 1300,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/cb/Mavis_Baby_ability.png/revision/latest?cb=20240425194606",
+          "evolution": "Classic Character level 1",
+          "description": "Can pick Carrots for Coins"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/67/Mavis_Classic_ability.png/revision/latest?cb=20240425194625",
+          "evolution": "Classic Character level 2",
+          "description": "Get bonus Coins for fully picking a Carrot patch"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/cf/Mavis_Super_ability.png/revision/latest?cb=20240425194636",
+          "evolution": "Super Character level 3",
+          "description": "Carrots picked heal the Squad"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        {
+          "name": "Mavis",
+          "picture": "Emote Mavis"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["22/05/2023 - Mavis was added to the game by the Second Beta (which was open)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Pam",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/6/6e/Portrait_Pam_%28Baby%29.png/revision/latest?cb=20240428065937",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/3/38/Portrait_pam.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/3/32/Pam_Super_portrait.png/revision/latest?cb=20240423110852"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Royal World",
+      "rarity": "Rare",
+      "class": "Healers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 170,
+      "health": 1200,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/81/Pam_Baby_ability.png/revision/latest?cb=20240425195724",
+          "evolution": "Classic Character level 1",
+          "description": "Builds a Heal Station after opening a Chest"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/40/Pam_Classic_ability.png/revision/latest?cb=20240425195735",
+          "evolution": "Classic Character level 2",
+          "description": "Heal Station emits a Heal Surge when destroyed"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e9/Pam_Super_ability.png/revision/latest?cb=20240425195744",
+          "evolution": "Super Character level 3",
+          "description": "Gives a Heal Station Spell"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        {
+          "name": "Pam",
+          "picture": "Emote Pam"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["22/05/2023 - Pam was added to the game by the Second Beta (which was open)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Wizard",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/4/4a/Wizard_Baby_portrait.png/revision/latest?cb=20240423110728",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/d/d0/Portrait_WIZARD.png/revision/latest?cb=20240428080930",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/1/1d/Portrait_Wizard_%28Super%29.png/revision/latest?cb=20240428065457"
+    },
+    "basic_info": {
+      "origin_game": "Clash of Clans & Clash Royale",
+      "world": "Royal World",
+      "rarity": "Rare",
+      "class": "Attackers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 120,
+      "health": 850,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/9/9a/Wizard_Baby_ability.png/revision/latest?cb=20240424131049",
+          "evolution": "Classic Character level 1",
+          "description": "Gives a random Spell"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/4/42/Wizard_Classic_ability.png/revision/latest?cb=20240424131108",
+          "evolution": "Classic Character level 2",
+          "description": "Lets you hold 2 Spells at once"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c1/Missing_image.png/revision/latest?cb=20230701103652",
+          "evolution": "Super Character level 3",
+          "description": "Adds a chance for monsters to drop a Spell"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        {
+          "name": "Wizard",
+          "picture": "Emote Wizard"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["22/05/2023 - Wizard was added to the game by the Second Beta (which was open)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Royale King",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/7/76/RoyaleKing_Baby_portrait.png/revision/latest?cb=20240423111743",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/5/53/Portrait_ROYALE_KING.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/1/18/RoyaleKing_Super_portrait.png/revision/latest?cb=20240423111803"
+    },
+    "basic_info": {
+      "origin_game": "Clash Royale",
+      "world": "Royal World",
+      "rarity": "Epic",
+      "class": "Defenders"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 115,
+      "health": 2200,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/d/db/RoyaleKing_Baby_ability.png/revision/latest?cb=20240423132034",
+          "evolution": "Classic Character level 1",
+          "description": "Deploys Royal Recruits after opening a Chest"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/6/66/RoyaleKing_Classic_ability.png/revision/latest?cb=20240423132049",
+          "evolution": "Classic Character level 2",
+          "description": "Extra Kings in the Squad deploy extra Recruits"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/0a/RoyaleKing_Super_ability.png/revision/latest?cb=20240423132106",
+          "evolution": "Super Character level 3",
+          "description": "Gives a Royal Delivery Spell containing an Elite Recruit"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        {
+          "name": "Royale king",
+          "picture": "Emote Royale king"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["22/05/2023 - Royale King was added to the game by the Second Beta (which was open)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Mortis",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/5/5d/Portrait_Mortis_%28Baby%29.png/revision/latest?cb=20240427090046",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/2d/Portrait_MORTIS.png/revision/latest?cb=20230527113727",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/0/05/Portrait_Mortis_%28Super%29.png/revision/latest?cb=20240427090018"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Royal World",
+      "rarity": "Epic",
+      "class": "All-Rounders"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 175,
+      "health": 1700,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/c/c3/Mortis_Baby_ability.png/revision/latest?cb=20240423133155",
+          "evolution": "Classic Character level 1",
+          "description": "Revives up to 3 busted Monsters in the Squad"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/3/3d/Mortis_Classic_ability.png/revision/latest?cb=20240423133218",
+          "evolution": "Classic Character level 2",
+          "description": "Revived Monsters turn into bats"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/b8/Mortis_Super_ability.png/revision/latest?cb=20240423133228",
+          "evolution": "Super Character level 3",
+          "description": "Allows reviving up to 4 busted Monsters"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        {
+          "name": "Mortis",
+          "picture": "Emote Mortis"
+        }
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": ["22/05/2023 - Mortis was added to the game by the Second Beta (which was open)"]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Heavy",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/3/38/Portrait_Heavy_%28Baby%29.png/revision/latest?cb=20240428064941",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/a/a0/Portrait_HEAVY.png/revision/latest?cb=20240428081031",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/5/59/Heavy_Super_portrait.png/revision/latest?cb=20240423110357"
+    },
+    "basic_info": {
+      "origin_game": "Boom Beach",
+      "world": "Beach World",
+      "rarity": "Common",
+      "class": "Defenders"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 250,
+      "health": 2300,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/0/0a/Heavy_Baby_ability.png/revision/latest?cb=20240423131324",
+          "evolution": "Classic Character level 1",
+          "description": "Shoots faster when staying in place"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/75/Heavy_Classic_ability.png/revision/latest?cb=20240423131348",
+          "evolution": "Classic Character level 2",
+          "description": "Heals when shooting faster"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/27/Heavy_Super_ability.png/revision/latest?cb=20240423131401",
+          "evolution": "Super Character level 3",
+          "description": "Increases max shooting speed"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [
+        {
+          "name": "Default",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/a/a0/Portrait_HEAVY.png/revision/latest?cb=20240428081031"
+        },
+        {
+          "name": "Future",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/8/88/Skin_%28Heavy%29_Future.png/revision/latest?cb=20240415101315"
+        },
+        {
+          "name": "Karate",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/74/Skin_%28Heavy%29_Karate.png/revision/latest?cb=20240415101343"
+        },
+        {
+          "name": "Wolf",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/e/e4/Skin_%28Heavy%29_Wolf.png/revision/latest?cb=20240415101404"
+        }
+      ],
+      "emotes": [],
+      "voice_lines": [],
+      "gallery": [],
+      "history": [{ "1": "06 February 2023 - Heavy was added to the game by the First Beta (which was closed)",
+        "2": "22 May 2023 - Heavy was removed for the Second Beta, being the only character eliminated between the two betas",
+        "3": "23 April 2024 - Heavy has been moved from the Green World to the Beach World"}
+      ]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Penny",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/6/63/Portrait_Penny_%28Baby%29.png/revision/latest?cb=20240428064446",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/3/35/Penny_Classic_portrait.png/revision/latest?cb=20240423105955",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/e/ee/Super_Penny.png/revision/latest?cb=20240428073023"
+    },
+    "basic_info": {
+      "origin_game": "Brawl Stars",
+      "world": "Beach World",
+      "rarity": "Rare",
+      "class": "Suppliers"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 230,
+      "health": 1100,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/5/57/Penny_Baby_ability.png/revision/latest?cb=20240423131014",
+          "evolution": "Classic Character level 1",
+          "description": "Discovers a hidden treasure"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/b/b2/Penny_Classic_ability.png/revision/latest?cb=20240423131039",
+          "evolution": "Classic Character level 2",
+          "description": "Treasure sometimes has a key"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/7/7a/Penny_Super_ability.png/revision/latest?cb=20240423131104",
+          "evolution": "Super Character level 3",
+          "description": "Treasure has some hearts"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [
+        "Yeahhhh!!!",
+        "Chests and gold, here I come!",
+        "HAHA!!!",
+        "Dibs on the coins!",
+        "FOLLOW THE COINS JINGLING!!",
+        "THE CHEST-HUNTING IS ON!!!"
+      ],
+      "voice_lines": [],
+      "gallery": [],
+      "history": [
+        "23/04/2024 - Penny was added to the game by the Soft Launch"
+      ]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Tank",
+    "pictures": {
+      "baby": "https://static.wikia.nocookie.net/squad-busters/images/0/02/TankGirl_Baby_portrait.png/revision/latest?cb=20240423110112",
+      "classic": "https://static.wikia.nocookie.net/squad-busters/images/d/d1/TankGirl_Classic_portrait.png/revision/latest?cb=20240423110128",
+      "super": "https://static.wikia.nocookie.net/squad-busters/images/7/7e/TankGirl_Super_portrait.png/revision/latest?cb=20240423110144"
+    },
+    "basic_info": {
+      "origin_game": "Boom Beach",
+      "world": "Beach World",
+      "rarity": "Rare",
+      "class": "Defenders"
+    },
+    "powers": {
+      "fusion_perk": "?"
+    },
+    "stats": {
+      "damages": 125,
+      "health": 1200,
+      "fusion_damages": "?",
+      "fusion_health": "?"
+    },
+    "contents": {
+      "summary": "Summary",
+      "abilities": {
+        "baby": {
+          "name": "Baby Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/2/2d/TankGirl_Baby_ability.png/revision/latest?cb=20240423130511",
+          "evolution": "Classic Character level 1",
+          "description": "Takes control of Tanks found in Maps"
+        },
+        "classic": {
+          "name": "Classic Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/9/96/TankGirl_Classic_ability.png/revision/latest?cb=20240423130524",
+          "evolution": "Classic Character level 2",
+          "description": "Tanks Overdrive their attack speed occasionally"
+        },
+        "super": {
+          "name": "Super Ability",
+          "picture": "https://static.wikia.nocookie.net/squad-busters/images/5/59/TankGirl_Super_ability.png/revision/latest?cb=20240423130535",
+          "evolution": "Super Character level 3",
+          "description": "Tanks start with Overdrive"
+        }
+      },
+      "strategy": {
+        "offensive_strategy": "",
+        "defensive_strategy": ""
+      },
+      "skins": [],
+      "emotes": [],
+      "voice_lines": [],
+      "gallery": [],
+      "history": [
+        "23/04/2024 - Tank was added to the game by the Soft Launch"
+      ]
+    }
+  }
+},
+{
+  "character": {
+    "name": "Mr. S",
+    "pictures": {
+    "normal": "https://static.wikia.nocookie.net/squad-busters/images/9/9f/Portrait_MR_S.png/revision/latest?cb=20240428081838"
+    }
+  }
+}
+]

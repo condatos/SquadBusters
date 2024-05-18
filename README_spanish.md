@@ -2,27 +2,27 @@
 <img src="https://squadbusters.supercell.com/_nuxt/image/a11b18.svg" alt="squadbusters" width="500"/>
 </p>
 
-## A repository for Squad Busters game characters' information
+## Un repositorio con información de los personajes de Squad Busters
 
 ---
 
-🇬🇧 **You are viewing the contents of the repository in English**
+:es: **Estas viendo el contenido del repositorio en español**  
 
-:es: *[Versión en español aquí](README_spanish.md)*  
-
----
-
-## :scroll: Content
-
-* :floppy_disk: [squadbusters_202304_wiki.json](./squadbusters_202304_wiki.json) contains information about each of the characters in the game directly extracted from the [Squad Busters Fandom Wiki](https://squad-busters.fandom.com/wiki/Squad_Busters_Wiki) for the second beta version of May 2023. 
-
-* :floppy_disk: [squadbusters_202404_wiki.json](./squadbusters_202404_wiki.json) contains information about each of the characters in the game directly extracted from the [Squad Busters Fandom Wiki](https://squad-busters.fandom.com/wiki/Squad_Busters_Wiki) for the soft launch version of April 2024. 
-
-* :floppy_disk: [squadbusters_202405_wiki.json](./squadbusters_202405_wiki.json) contains information about each of the characters in the game directly extracted from the [Squad Busters Fandom Wiki](https://squad-busters.fandom.com/wiki/Squad_Busters_Wiki) for the global launch version of May 2024. 
+🇬🇧 *[English version here](README.md)*
 
 ---
 
-A content example is shown below:
+## :scroll: Contenido
+
+* :floppy_disk: [squadbusters_202304_wiki.json](./squadbusters_202304_wiki.json) contiene información sobre cada uno de los personajes del juego extraída directamente de [Squad Busters Fandom Wiki](https://squad-busters.fandom.com/wiki/Squad_Busters_Wiki) para la segunda versión beta de mayo de 2023. 
+
+* :floppy_disk: [squadbusters_202404_wiki.json](./squadbusters_202404_wiki.json) contiene información sobre cada uno de los personajes del juego extraída directamente de [Squad Busters Fandom Wiki](https://squad-busters.fandom.com/wiki/Squad_Busters_Wiki) para el lanzamiento de abril de 2024. 
+
+* :floppy_disk: [squadbusters_202405_wiki.json](./squadbusters_202405_wiki.json) contiene información sobre cada uno de los personajes del juego extraída directamente de [Squad Busters Fandom Wiki](https://squad-busters.fandom.com/wiki/Squad_Busters_Wiki) para el lanzamiento global de mayo de 2024. 
+
+---
+
+A continuación se muestra un ejemplo:
 
 <p align="center">
 <img src="https://static.wikia.nocookie.net/squad-busters/images/6/68/ArcherQueen_Baby_portrait.png/revision/latest?cb=20240423112428" alt="squadbusters" width="150"/>
@@ -110,7 +110,7 @@ A content example is shown below:
 
 ---
 
-[*Squad Busters repo*](https://github.com/aitorvv/SquadBusters) - [*Squad Busters website*](https://squadbusters.supercell.com/es/) - [*About me*](https://github.com/aitorvv)
+[*Squad Busters repo*](https://github.com/aitorvv/SquadBusters) - [*Squad Busters web*](https://squadbusters.supercell.com/es/) - [*Sobre mi*](https://github.com/aitorvv)
 
 <p align="center">
 <img src="https://squadbusters.supercell.com/_nuxt/image/a11b18.svg" alt="squadbusters" width="500"/>

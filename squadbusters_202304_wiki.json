@@ -1,0 +1,702 @@
+[
+    {
+        "character": {
+          "name": "Barbarian",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/c0/Portrait_BARBARIAN.png/revision/latest/scale-to-width-down/1000?cb=20230527020734",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Green World",
+            "rarity": "Common",
+            "class": "All-Rounders"
+          },
+          "abilities": {
+            "baby_ability": "Melee fighter with good damage",
+            "classic_ability": "Becomes Elite after bashing lots of baddies",
+            "super_ability": "Goes Elite instantly when with another Barbarian"
+          },
+          "fusion_perk": "Instantly becomes an Elite Barbarian?",
+          "stats": {
+            "damages": 140,
+            "health": 1400,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+    {
+        "character": {
+          "name": "Greg",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/8/80/Greg_Portrait.png/revision/latest?cb=20230524071910",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Green World",
+            "rarity": "Common",
+            "class": "Gatherer"
+          },
+          "abilities": {
+            "baby_ability": "Chops Trees for loot",
+            "classic_ability": "Chops Trees twice as fast",
+            "super_ability": "Trees drop more loot"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 100,
+            "health": 1300,
+            "fusion_damages": "Chops down Trees in one swing",
+            "fusion_health": null
+          }
+        }
+      },
+    {
+        "character": {
+          "name": "Colt",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/e/e5/Portrait_Colt_.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Green World",
+            "rarity": "Common",
+            "class": "Attackers"
+          },
+          "abilities": {
+            "baby_ability": "Ranged fighter with high damage",
+            "classic_ability": "Bust 4 foes to fire Bullet Storm",
+            "super_ability": "Bullet Storm deals much more damage"
+          },
+          "fusion_perk": "Shoots bigger bullet storms more often?",
+          "stats": {
+            "damages": 200,
+            "health": 750,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+    {
+    "character": {
+        "name": "El Primo",
+        "pictures": {
+        "baby": null,
+        "classic": "https://static.wikia.nocookie.net/squad-busters/images/0/04/Portrait_EL_PRIMO.png/revision/latest?cb=20230527113727",
+        "super": null
+        },
+        "basic_info": {
+        "origin_game": "Brawl Stars",
+        "world": "Green World",
+        "rarity": "Common",
+        "class": "Defenders"
+        },
+        "abilities": {
+        "baby_ability": "Defender with tones of Health",
+        "classic_ability": "Bust 5 foes to do a Flying Elbow Drop",
+        "super_ability": "Flying Elbow Drop deals more damage"
+        },
+        "fusion_perk": "Does bigger jumping slams more often?",
+        "stats": {
+        "damages": 100,
+        "health": 2800,
+        "fusion_damages": null,
+        "fusion_health": null
+        }
+    }
+    },
+    {
+        "character": {
+          "name": "Goblin",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/e/e1/Portrait_GOBLIN.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Green World",
+            "rarity": "Common",
+            "class": "Suppliers"
+          },
+          "abilities": {
+            "baby_ability": "Gives 3 Coins",
+            "classic_ability": "Increases Coins given to 6",
+            "super_ability": null
+          },
+          "fusion_perk": null,
+          "stats": {
+            "damages": 170,
+            "health": 1200,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Chicken",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/e/e1/Portrait_Chicken.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Hay Day",
+            "world": "Green World",
+            "rarity": "Common",
+            "class": "Speedsters"
+          },
+          "abilities": {
+            "baby_ability": "Gives 1 Turbo Boot(s)",
+            "classic_ability": "Spawns up to 3 Hatchlings over time",
+            "super_ability": "Increases Turbo Boots given to 2"
+          },
+          "fusion_perk": "Gives 2 extra Turbo and even longer Turbo?",
+          "stats": {
+            "damages": 120,
+            "health": 1000,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Medic",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/6/69/Portrait_MEDIC.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Boom Beach",
+            "world": "Green World",
+            "rarity": "Rare",
+            "class": "Healers"
+          },
+          "abilities": {
+            "baby_ability": "Heals the Squad slowly over time",
+            "classic_ability": "Throws strong Heal Packs when idle",
+            "super_ability": "Passive heal gets stronger and faster"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 125,
+            "health": 900,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Dynamike",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/c7/Portrait_DYNAMIKE.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Green World",
+            "rarity": "Rare",
+            "class": "Attackers"
+          },
+          "abilities": {
+            "baby_ability": "Tosses big explosives",
+            "classic_ability": "Throws a second stick of dynamite",
+            "super_ability": "Dynamite gets a larger blast"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 90,
+            "health": 800,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Hog Rider",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/cf/Portrait_HOG-RIDER.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Green World",
+            "rarity": "Rare",
+            "class": "Speedsters"
+          },
+          "abilities": {
+            "baby_ability": "Grass gives a burst of Turbo",
+            "classic_ability": "Turbo lasts longer",
+            "super_ability": "Turbo recharges faster"
+          },
+          "fusion_perk": "Turbo recovers even faster in tall grass?",
+          "stats": {
+            "damages": 150,
+            "health": 1500,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Witch",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/7/7b/Portrait_WITCH.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Green World",
+            "rarity": "Epic",
+            "class": "Attackers"
+          },
+          "abilities": {
+            "baby_ability": "Summons Skeletons repeatedly",
+            "classic_ability": "Summons more Skeletons",
+            "super_ability": "Gives a Skeleton Barrel Spell"
+          },
+          "fusion_perk": "Summons more skeleton allies even faster?",
+          "stats": {
+            "damages": 230,
+            "health": 1000,
+            "fusion_damages": null,
+            "fusion_health": null
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Heavy",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/a/a0/Portrait_HEAVY.png/revision/latest?cb=20230909152640",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Boom Beach",
+            "world": "Beach World",
+            "rarity": "Common",
+            "class": "Defenders"
+          },
+          "abilities": {
+            "baby_ability": "?",
+            "classic_ability": "Ranged units in your area attack 35% faster",
+            "super_ability": "?"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": "?",
+            "health": "?",
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Archer Queen",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/6/62/Portrait_ARCHER_QUEEN.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Green World",
+            "rarity": "Epic",
+            "class": "Attackers"
+          },
+          "abilities": {
+            "baby_ability": "Your ranged units attack faster",
+            "classic_ability": "Occasionally fires exploding arrows",
+            "super_ability": "Recovers Health steadily when not attacking"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 140,
+            "health": 1200,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Barbarian King",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/d/d1/Barbarian_King.png/revision/latest?cb=20230527113726",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of clans",
+            "world": "Green World",
+            "rarity": "Epic",
+            "class": "Defenders"
+          },
+          "abilities": {
+            "baby_ability": "Your melee units attack faster",
+            "classic_ability": "Occasionally pummels enemies with his Iron Fist",
+            "super_ability": "Recovers health steadily when not attacking"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 145,
+            "health": 3200,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Bo",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/24/Portrait_BO.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Desert World",
+            "rarity": "Common",
+            "class": "Attackers"
+          },
+          "abilities": {
+            "baby_ability": "Deals 110% more damage to Monsters",
+            "classic_ability": "Deals 125% more damage to Monsters",
+            "super_ability": "Occasionally drops a Mine when stopping"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 125,
+            "health": 700,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Shelly",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/21/Portrait_shelly.png/revision/latest?cb=20230527113728",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Desert World",
+            "rarity": "Common",
+            "class": "All-Rounders"
+          },
+          "abilities": {
+            "baby_ability": "Bust 5 foes to fire Super Shell",
+            "classic_ability": "Heals a large amount of health after Super Shell",
+            "super_ability": "Shoots a second barrel with her normal attack"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 200,
+            "health": 1300,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Nita",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/6/6e/Portrait_NITA.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Desert World",
+            "rarity": "Rare",
+            "class": "Defenders"
+          },
+          "abilities": {
+            "baby_ability": "Summons a tough Bear to defend the Squad",
+            "classic_ability": "After a while, resummons her Bear, if busted",
+            "super_ability": "Bear gets enraged after the Squad busts a foe"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 85,
+            "health": 1200,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Bea",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/f/f9/Portrait_BEA.png/revision/latest?cb=20230528210518",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Desert World",
+            "rarity": "Rare",
+            "class": "Attackers"
+          },
+          "abilities": {
+            "baby_ability": "Picks up Hives to get a circle of Bees",
+            "classic_ability": "Hives give 1 extra Bee",
+            "super_ability": "Bees last for much longer"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 200,
+            "health": 900,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Battle Healer",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/a/a3/Portrait_BATTLE_HEALER.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Desert World",
+            "rarity": "Epic",
+            "class": "Healers"
+          },
+          "abilities": {
+            "baby_ability": "Boosts Squad health by 400",
+            "classic_ability": "Heals the Squad after opening a Chest",
+            "super_ability": "Increases Squad Health boost to 600"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 120,
+            "health": 1800,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Max",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/c/c9/Portrait_MAX.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Desert World",
+            "rarity": "Epic",
+            "class": "Speedsters"
+          },
+          "abilities": {
+            "baby_ability": "Activates a Squad Speed Boost",
+            "classic_ability": "Busting foes extends Speed Boost",
+            "super_ability": "Speed Boost charges faster"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 200,
+            "health": 1100,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Trader",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/8/8b/Portrait_TRADER.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Royal World",
+            "rarity": "Common",
+            "class": "Suppliers"
+          },
+          "abilities": {
+            "baby_ability": "Gives 1 Gem(s) for every 15 Coins collected",
+            "classic_ability": "Heals the Squad slightly when giving Gems",
+            "super_ability": "Increases Gems given to 2"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 100,
+            "health": 1600,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Mavis",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/20/Portrait_Mavis.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Hay Day",
+            "world": "Royal World",
+            "rarity": "Common",
+            "class": "Suppliers"
+          },
+          "abilities": {
+            "baby_ability": "Can pick Carrots for Coins",
+            "classic_ability": "Get bonus Coins for fully picking a Carrot patch",
+            "super_ability": "Carrots picked heal the Squad"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": "?",
+            "health": 125,
+            "fusion_damages": 1300,
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Pam",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/3/38/Portrait_pam.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Royal World",
+            "rarity": "Rare",
+            "class": "Healers"
+          },
+          "abilities": {
+            "baby_ability": "Builds a Heal Station after opening a Chest",
+            "classic_ability": "Heal Station emits a Heal Surge when destroyed",
+            "super_ability": "Gives a Heal Station Spell"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 170,
+            "health": 1200,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Wizard",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/d/d0/Portrait_WIZARD.png/revision/latest?cb=20240409094418",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash of Clans & Clash Royale",
+            "world": "Royal World",
+            "rarity": "Rare",
+            "class": "Attackers"
+          },
+          "abilities": {
+            "baby_ability": "Gives a random Spell",
+            "classic_ability": "Lets you hold 2 Spells at once",
+            "super_ability": "Adds a chance for Monsters to drop a Spell"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 120,
+            "health": 850,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Royale King",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/5/53/Portrait_ROYALE_KING.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Clash Royale",
+            "world": "Royal World",
+            "rarity": "Epic",
+            "class": "Defenders"
+          },
+          "abilities": {
+            "baby_ability": "Deploys Royal Recruits after opening a chest",
+            "classic_ability": "Extra Kings in the Squad deploy extra Recruits",
+            "super_ability": "Gives a Royal Delivery Spell containing an Elite Recruit"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 115,
+            "health": 2200,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      },
+      {
+        "character": {
+          "name": "Mortis",
+          "pictures": {
+            "baby": null,
+            "classic": "https://static.wikia.nocookie.net/squad-busters/images/2/2d/Portrait_MORTIS.png/revision/latest?cb=20230527113727",
+            "super": null
+          },
+          "basic_info": {
+            "origin_game": "Brawl Stars",
+            "world": "Royal World",
+            "rarity": "Epic",
+            "class": "All-Rounders"
+          },
+          "abilities": {
+            "baby_ability": "Revives up to 3 busted Monsters in the Squad",
+            "classic_ability": "Revived Monsters turn into Bats",
+            "super_ability": "Allows reviving up to 4 busted Monsters"
+          },
+          "fusion_perk": "?",
+          "stats": {
+            "damages": 175,
+            "health": 1700,
+            "fusion_damages": "?",
+            "fusion_health": "?"
+          }
+        }
+      }                                                                                                          
+]
